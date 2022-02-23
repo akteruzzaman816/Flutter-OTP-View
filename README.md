@@ -8,9 +8,9 @@
      <td align="center">Screenshot 03</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_01.jpeg" height="400" width="200"></td>
-    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_02.jpeg" height="400" width="200"></td>
-	<td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_03.jpeg" height="400" width="200"></td>
+    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_01.jpeg" height="450" width="250"></td>
+    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_02.jpeg" height="450" width="250"></td>
+	<td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_03.jpeg" height="450" width="250"></td>
   </tr>
  </table>
  <br>
