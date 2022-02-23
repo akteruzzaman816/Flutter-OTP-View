@@ -8,9 +8,9 @@
      <td align="center">Screenshot 03</td>
   </tr>
   <tr>
-    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/screenshot_1.jpeg" height="400" width="200"></td>
-    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/screenshot_2.png" height="400" width="200"></td>
-	<td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/screenshot_3.png" height="400" width="200"></td>
+    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_01.jpeg" height="400" width="200"></td>
+    <td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_02.jpeg" height="400" width="200"></td>
+	<td valign="top"><img src="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/screenshot_03.jpeg" height="400" width="200"></td>
   </tr>
  </table>
  <br>
@@ -19,7 +19,7 @@
 ## Features
 
 * Flutter OTP View
-    * custom text box
+    * custom TextField box
     * custom button
     * otp view
 
@@ -36,9 +36,9 @@
 
 ### Install the apk
 
-<a href="https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/application.apk"><img alt="Download Debug APK" src="https://media-blog.cdnandroid.com/wp-content/uploads/sites/3/sites/3/2015/06/apk-1.png" width="185" height="70"/></a>
+<a href="https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/app-release.apk?raw=true"><img alt="Download Debug APK" src="https://media-blog.cdnandroid.com/wp-content/uploads/sites/3/sites/3/2015/06/apk-1.png" width="185" height="70"/></a>
 
-Go to the following [link](https://github.com/akteruzzaman816/Flutter-check-internet-connection/blob/main/resource/application.apk) to download the app.
+Go to the following [link](https://github.com/akteruzzaman816/Flutter-OTP-View/blob/main/resource/app-release.apk?raw=true) to download the app.
 
 ### Directory Structure
 
